@@ -3,7 +3,7 @@
     .REQUIREMENTS: VMware PowerCLI
     .NOTES  Author:  Simon Conyard
     .NOTES  Site:    www.virtual-simon.co.uk
-    .NOTES  Reference:  
+    .NOTES  Reference:  https://virtual-simon.co.uk/powershell-searching-guestinfo-appinfo-for-an-application-or-service/
 #>
 
 #Setting the VM advanced setting field and what application/service to search for
