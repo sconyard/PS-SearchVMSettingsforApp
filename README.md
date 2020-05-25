@@ -17,7 +17,7 @@ This script searches the values contained within the VM advanced setting guestin
 3. VMware Tools 11 or higher
 3. guestinfo.appinfo information is only collected when configured further information about VMware Tools 11 can be found [here](https://docs.vmware.com/en/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-3A8089F6-CAF6-43B9-BD9D-B1081F8D64E2.html)
 
-#### Ouput Example
+#### Output Example
 
 ##### Windows Guest
 
